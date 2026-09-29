@@ -35,6 +35,7 @@ Some PDFs don't come with a text layer. Adding one makes them searchable, copyab
 ## Convert
 
 * [Pandoc](https://pandoc.org/) converts files between many formats.
+* [PDFPilot](https://pdfpilot.net/jpg-to-pdf) converts JPG and PNG images into PDFs in the browser, with page ordering, rotation, and page-size controls. It does not add OCR.
 * [this HN discussion](https://news.ycombinator.com/item?id=39027543) covers and compares several tools that can be used to generate PDFs using HTML and CSS.
 * [htmldocs](https://htmldocs.com/) is a React library for building and generating documents.
 * [HTML to PDF conversion API \| html2pdf.app](https://html2pdf.app/)
